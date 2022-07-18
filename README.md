@@ -1,11 +1,9 @@
 # Server Benchmarks
 
-By popular demand, these are the tests that I use when doing the VPS Showdown
-posts for my blog, [joshtronic.com][joshtronic].
+```
+wget -qO- https://raw.githubusercontent.com/josephcy95/server-benchmarks/main/run.sh | sudo bash
+```
 
-These tests aren't perfect, but I hope that by liberating them, we can make them
-better, together.
 
-Licensed under the GNU General Public License v3
-
+Credit:
 [joshtronic]: https://joshtronic.com
