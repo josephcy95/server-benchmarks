@@ -1,7 +1,8 @@
 # Server Benchmarks
 
 ```
-wget -qO- https://raw.githubusercontent.com/josephcy95/server-benchmarks/main/run.sh | sudo bash
+wget -qO- https://raw.githubusercontent.com/josephcy95/server-benchmarks/main/run.sh
+./run.sh name
 ```
 
 
