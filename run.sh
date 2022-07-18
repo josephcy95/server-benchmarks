@@ -9,7 +9,7 @@ if [ $# -eq 0 ]; then
 fi;
 
 PROVIDER=$1
-SPEEDTEST_SERVER=1774
+SPEEDTEST_SERVER=19302
 
 swapoff -a
 
